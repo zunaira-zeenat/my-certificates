@@ -9,7 +9,7 @@ Certificates
 - Intro to Machine Learning
 - Intermediate Machine Learning
 - Feature Engineering
-- 
+  
 What I Learned
 
 These courses helped me build practical skills in Python and Pandas, work with and prepare data, and understand core machine learning concepts. I gained hands-on experience training models and improving their performance. The Feature Engineering course taught me how to create useful inputs that can help models make better predictions.
